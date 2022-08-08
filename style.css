@@ -1,0 +1,59 @@
+body {
+	background-color: #0d1926;
+	text-align: justify;
+}
+#console{
+	font-family: 'Source Code Pro', monospace;
+	font-weight: lighter;
+	color: #fff;
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:150px;
+	font-size:14.5px;
+}
+#console1, #console2, #console3, #console4{
+	font-family: 'Source Code Pro', monospace;
+	color: #fff;
+	font-weight: lighter;
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:14.5px;
+	display: inline;	
+}
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+a:hover{
+	text-shadow: 0.3px 0.3px #0bc;
+}
+#a {
+	color: #0bc;
+}
+#c {
+	color: #1e8eff;
+}
+#b {
+	color: #83ff08;
+}
+#d{
+	color: #77f;
+}
+#e{
+	font-weight: bold;
+	color: #aaa;
+	/*font-size: 120%;*/
+}
+#f{
+	color: #f91;
+	font-weight: bolder;
+}
+#link{
+	float: right;
+}
+
+#date{
+	float: right;
+}
