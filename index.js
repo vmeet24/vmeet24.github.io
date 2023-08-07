@@ -28,7 +28,7 @@
         }
     }, 4800);
     new Typed('#console3', {
-        strings: ['^5000 dir<br>'],
+        strings: ['^5000 ls<br>'],
         typeSpeed: 100,
         showCursor: false
     });
@@ -42,7 +42,7 @@
         }
     }, 6000);
     new Typed('#console4', {
-        strings: ['^6600 intro.txt<br>'],
+        strings: ['^6600 cat intro.txt<br>'],
         typeSpeed: 100,
         showCursor: false
     });
